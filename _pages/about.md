@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Constantly Learning.
+subtitle: Let's learn.
 
 profile:
   align: right
