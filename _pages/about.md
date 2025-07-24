@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi I'm Eddy. I'm a student at Princeton studying a combination of physics and CS/AI. Broadly, I'm interested in tackling problems in energy, space, defense, and AI. 
+Hi I'm Eddy. I'm a student at <a href="https://www.princeton.edu/">Princeton</a> studying a combination of physics and CS/AI. Broadly, I'm interested in tackling problems in energy, space, defense, and AI. 
 
 This summer, I'm working on the ML team at <a href="https://www.distributedspectrum.com/">Distributed Spectrum</a> in an applied research role. Previously, I researched nuclear fusion at the <a href="https://www.lle.rochester.edu/">Laboratory for Laser Energetics</a> advised by Dr. R. Stephen Craxton. I also had stints at Yale and the University of Rochester researching superconductors and quantum computing.
 
