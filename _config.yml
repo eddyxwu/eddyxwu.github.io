@@ -142,15 +142,24 @@ newsletter:
 # Collections
 # -----------------------------------------------------------------------------
 
+#collections:
+#  books:
+#    output: true
+#  news:
+#    defaults:
+#      layout: post
+#    output: true
+#  projects:
+#    output: true
+
 collections:
   books:
     output: true
-  news:
-    defaults:
-      layout: post
-    output: true
-  projects:
-    output: true
+
+# Only show “About” and “Bookshelf” in the top nav
+nav_order:
+  - about
+  - bookshelf
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -191,6 +200,13 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _projects/
+  - _posts/
+  - _pages/blog.md
+  - _pages/projects.md
+  - _pages/publications.md
+  - _pages/repositories.md
+  - assets/json/resume.json   # if you’re using only the YAML cv
 keep_files:
   - CNAME
   - .nojekyll
