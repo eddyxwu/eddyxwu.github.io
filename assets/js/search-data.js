@@ -522,7 +522,7 @@ ninja.data = [{
         title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/eddyxwu", "_blank");
+          window.open("https://twitter.com/eddywu_", "_blank");
         },
       },{
         id: 'social-custom_social',
