@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: zoomed_biking.jpeg
+  image: biking_zoomed.png
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
