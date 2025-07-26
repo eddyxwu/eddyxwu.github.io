@@ -196,6 +196,8 @@ exclude:
   - _pages/publications.md
   - _pages/repositories.md
   - _pages/bookshelf.md
+  - _pages/people.md
+  - _pages/submenus.md
   - _news/
   - _projects/
   - _posts/
