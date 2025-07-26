@@ -23,11 +23,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi I'm Eddy. I'm a student at <a href="https://www.princeton.edu/">Princeton</a> studying a combination of physics and CS/AI. Broadly, I'm interested in tackling problems in energy, space, defense, and AI. 
+Hi I'm Eddy! I'm a student at <a href="https://www.princeton.edu/">Princeton</a> studying a combination of physics and CS/AI. Broadly, I'm interested in tackling problems in energy, space, defense, and AI. 
 
 This summer, I'm working on the ML team at <a href="https://www.distributedspectrum.com/">Distributed Spectrum</a> in an applied research role. Previously, I researched nuclear fusion at the <a href="https://www.lle.rochester.edu/">Laboratory for Laser Energetics</a> advised by Dr. R. Stephen Craxton. I also had stints at Yale and the University of Rochester researching superconductors and quantum computing.
 
-I've also spent some time interning in the Mayor's Office of Rochester, NY, where I grew up. In my personal time, I'm always building various applied AI/ML projects, recently in climate and media. Lastly, I take a personal interest in human decision making and <a href="https://en.wikipedia.org/wiki/Prediction_market">prediction markets</a>.
+I've also spent some time interning in the Mayor's Office of Rochester, NY, where I grew up. In my own time, I'm always building various applied AI/ML projects, recently in climate and media. Lastly, I take a personal interest in <a href="https://en.wikipedia.org/wiki/Decision-making">human decision making</a> and <a href="https://en.wikipedia.org/wiki/Prediction_market">prediction markets</a>.
 
 
 
@@ -42,4 +42,6 @@ I've also spent some time interning in the Mayor's Office of Rochester, NY, wher
 
 
 
-If you have the time, here are some of my favorite reads (about life, not technical stuff) if you want to check them out <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A4BEB486621AAEFEC50145087501D584/S2053447717000070a.pdf/hard_choices.pdf">Hard Choices</a> by Ruth Chang, <a href="https://paulgraham.com/smart.html">Beyond Smart</a> by Paul Graham, and <a href="https://angeladuckworth.com/grit-book/">Grit</a> by Angela Duckworth.
+
+
+If you have the time, here are some of my favorite reads (about life, not technical stuff): <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A4BEB486621AAEFEC50145087501D584/S2053447717000070a.pdf/hard_choices.pdf">Hard Choices</a> by Ruth Chang, <a href="https://paulgraham.com/smart.html">Beyond Smart</a> by Paul Graham, and <a href="https://angeladuckworth.com/grit-book/">Grit</a> by Angela Duckworth.
