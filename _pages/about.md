@@ -31,7 +31,7 @@ I've also spent some time interning in the Mayor's Office of Rochester, NY, wher
 
 Reach out: ew1100 [at] princeton [dot] edu
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <p style="font-size:0.80em; line-height:1.4;">
   If you have the time, here are some of my favorite reads (about life, not technical stuff): <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A4BEB486621AAEFEC50145087501D584/S2053447717000070a.pdf/hard_choices.pdf">Hard Choices</a> by Ruth Chang, <a href="https://paulgraham.com/smart.html">Beyond Smart</a> by Paul Graham, and <a href="https://angeladuckworth.com/grit-book/">Grit</a> by Angela Duckworth.
