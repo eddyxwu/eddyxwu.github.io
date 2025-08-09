@@ -18,4 +18,3 @@ gtag("config", "{{ site.google_analytics }}");
 
   gtag('config', 'G-C9BS271QDJ');
 </script>
-
