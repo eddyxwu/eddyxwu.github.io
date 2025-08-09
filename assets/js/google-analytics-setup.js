@@ -3,7 +3,7 @@ function gtag() {
   window.dataLayer.push(arguments);
 }
 gtag("js", new Date());
-gtag("config", "G-RR8BVR62VF");
+gtag("config", "G-C9BS271QDJ");
 
 
 <!-- Google tag (gtag.js) -->
@@ -15,4 +15,3 @@ gtag("config", "G-RR8BVR62VF");
 
   gtag('config', 'G-C9BS271QDJ');
 </script>
-
