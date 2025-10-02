@@ -9,7 +9,20 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<a href="https://www.instagram.com/academicindex/">Academic Index</a> - Built automated social media account. 120M+ views in three months, revenue in the thousands.
+# Research
+
+* New configurations for the OMEGA laser (Nuclear Fusion – Laboratory for Laser Energetics)  
+    * ISEF 3rd place grand award, 2nd place special award
+* Quantum chip temperature dependence on the transmon (Quantum Computing – U of R)
+* Proposal for CERN Beamline competition 2023
+* Proposal for CERN Beamline competition 2022
+
+# Other
+
+* <a href="https://www.instagram.com/academicindex/">Academic Index</a> - Built automated social media account. 120M+ views in three months, revenue in the thousands.
+* CRADLE – Contrail Reduction System and Data Live E-System. Using predictive ML to calculate contrail formation  
+    * Backed by grant from MIT
+
 
 
 {% comment %}
