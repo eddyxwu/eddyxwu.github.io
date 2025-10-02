@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<a href="https://www.instagram.com/academicindex/">Academic Index</a> - 120M+ views in three months, revenue in the thousands.
+<a href="https://www.instagram.com/academicindex/">Academic Index</a> - Built automated social media account. 120M+ views in three months, revenue in the thousands.
 
 
 {% comment %}
