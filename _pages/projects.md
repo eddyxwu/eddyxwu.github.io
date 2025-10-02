@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-# Research
+## Research
 
 * New configurations for the OMEGA laser (Nuclear Fusion – Laboratory for Laser Energetics)  
     * ISEF 3rd place grand award, 2nd place special award
@@ -17,7 +17,7 @@ horizontal: false
 * Proposal for CERN Beamline competition 2023
 * Proposal for CERN Beamline competition 2022
 
-# Other
+## Other
 
 * <a href="https://www.instagram.com/academicindex/">Academic Index</a> - Built automated social media account. 120M+ views in three months, revenue in the thousands.
 * CRADLE – Contrail Reduction System and Data Live E-System. Using predictive ML to calculate contrail formation  
