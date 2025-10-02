@@ -9,6 +9,9 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+<a href="www.instagram.com/academicindex">Academic Index</a>
+
+
 {% comment %}
 <!-- pages/projects.md -->
 <div class="projects">
