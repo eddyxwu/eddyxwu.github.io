@@ -9,7 +9,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<a href="https://www.instagram.com/academicindex/">Academic Index</a>
+<a href="https://www.instagram.com/academicindex/">Academic Index</a> - 120M+ views, revenue in the thousands.
 
 
 {% comment %}
