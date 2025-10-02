@@ -193,6 +193,7 @@ exclude:
   - _pages/repositories.md
   - _pages/books.md
   - _pages/profiles.md
+  - _pages/publications.md
   - _pages/dropdown.md
   - _news/
   - _posts/
