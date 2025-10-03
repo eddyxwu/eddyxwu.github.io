@@ -7,4 +7,4 @@ nav: true
 nav_order: 5      # controls where it appears in the navbar
 ---
 
-I also scout/have scouted for various VC firms including Pear VC, Soma Capital, OVO Fund, GoAhead Ventures, V11, and more.
+I also scout/have scouted for various VC firms including <a href="https://pear.vc/">Pear VC</a>, <a href="https://somacap.com/featured">Soma Capital</a>, <a href="https://www.ovofund.com/">OVO Fund</a>, <a href="https://www.goaheadvc.com/">GoAhead Ventures</a>, <a href="https://www.velocity11.us/">V11</a>, and more. 
