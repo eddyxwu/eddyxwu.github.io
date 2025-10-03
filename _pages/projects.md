@@ -13,7 +13,7 @@ horizontal: false
 
 * [New configurations for the OMEGA laser (Nuclear Fusion – Laboratory for Laser Energetics)]({{ '/assets/pdf/Nuclear Fusion.pdf' | relative_url }}){:target="_blank" rel="noopener"}  
   * ISEF 3rd place grand award, 2nd place special award
-* [Quantum chip temperature dependence on the transmon (Quantum Computing – U of R)]({{ '/assets/pdf/qubert.pdf' | relative_url }}){:target="_blank" rel="noopener"}  
+* [Quantum chip temperature dependence on the transmon (Quantum Computing – U of R)]({{ '/assets/pdf/Qubert.pdf' | relative_url }}){:target="_blank" rel="noopener"}  
   * ST Yau Science Award Semifinalist
 * [Proposal for CERN Beamline competition 2024]({{ '/assets/pdf/BL4S_2024.pdf' | relative_url }}){:target="_blank" rel="noopener"}
 * [Proposal for CERN Beamline competition 2023]({{ '/assets/pdf/BL4S_2023.pdf' | relative_url }}){:target="_blank" rel="noopener"}
