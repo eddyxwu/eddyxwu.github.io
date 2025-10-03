@@ -23,6 +23,4 @@ horizontal: false
 ### Other
 
 * [Academic Index](https://www.instagram.com/academicindex/) – Built automated social media account. 120M+ views in three months, revenue in the thousands.
-* CRADLE – Contrail Reduction System and Data Live E-System. Using predictive ML to calculate contrail formation.
-  * Backed by grant from MIT
 
