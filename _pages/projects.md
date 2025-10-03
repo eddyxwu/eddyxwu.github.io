@@ -9,6 +9,8 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+<hr>
+
 ### Research
 
 * [New configurations for the OMEGA laser (Nuclear Fusion – Laboratory for Laser Energetics)]({{ '/assets/pdf/Nuclear Fusion.pdf' | relative_url }}){:target="_blank" rel="noopener"}  
