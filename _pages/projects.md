@@ -22,6 +22,6 @@ horizontal: false
 
 ### Other
 
-* [Viral Markets](https://www.viral-markets.com/) - dedicated prediction market to trading on the virality of short-form content (Reach out to me about this one!) 
+* [Viral Markets](https://www.viral-markets.com/) - dedicated prediction market to trading on the virality of short-form content (Please reach out to me about this one! Would love to chat.)
 * [Academic Index](https://www.instagram.com/academicindex/) - automated social media account. 100M+ views in two months, revenue in the thousands.
 
