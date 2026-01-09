@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher at General Intuition, Undergraduate at Princeton
+subtitle:
 
 profile:
   align: right
