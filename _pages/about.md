@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher at General Intuition, Building Viral Markets
+subtitle: Researcher at General Intuition, Ugrad at Princeton
 
 profile:
   align: right
