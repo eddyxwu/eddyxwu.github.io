@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:
+subtitle: Researcher at General Intuition, Building Viral Markets
 
 profile:
   align: right
