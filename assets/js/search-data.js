@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "nav-misc",
-          title: "misc",
-          description: "Various other activities and roles",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/misc/";
-          },
         },{
         id: 'social-email',
         title: 'email',
