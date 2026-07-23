@@ -22,5 +22,5 @@ horizontal: false
 
 ### Other
 
-* [Academic Index](https://www.instagram.com/academicindex/) - automated social media account. 170M+ views in four months, revenue in the thousands.
+* [Academic Index](https://www.instagram.com/academicindex/) - automated social media account. Grew to 170M+ views in four months and revenue in the thousands.
 
