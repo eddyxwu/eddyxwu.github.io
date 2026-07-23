@@ -23,11 +23,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi I'm Eddy! I'm a student at <a href="https://www.princeton.edu/">Princeton</a> studying a combination of physics and CS/AI. I'm currently noodling around with things in prediction markets and physics engines. 
+Hi I'm Eddy! I'm a student at <a href="https://www.princeton.edu/">Princeton</a> studying a combination of physics and CS/AI. I'm currently noodling around with things in prediction markets and physics engines.
 
-Last summer, I worked on the ML team at <a href="https://www.distributedspectrum.com/">Distributed Spectrum</a> in an applied research role. Previously, I researched nuclear fusion at the <a href="https://www.lle.rochester.edu/">Laboratory for Laser Energetics</a> advised by <a href="https://www.lle.rochester.edu/education/research-areas/integrated-modeling-group/integrated-modeling-group-3/r-stephen-craxton-bio/">Dr. R. Stephen Craxton</a>. I also spent time in labs at Yale and the University of Rochester researching superconductors and quantum computing.
+Last summer, I worked on the ML team at <a href="https://www.distributedspectrum.com/">Distributed Spectrum</a> in an applied research role. Previously, I researched nuclear fusion at the <a href="https://www.lle.rochester.edu/">Laboratory for Laser Energetics</a> advised by <a href="https://www.researchgate.net/profile/Stephen-Craxton">Dr. R. Stephen Craxton</a>. I also spent time in labs at Yale and the University of Rochester researching superconductors and quantum computing.
 
-I had a stint interning in the Mayor's Office of Rochester, NY, where I grew up. In my own time, I'm always building various projects, recently in <a href="https://www.instagram.com/academicindex/">automated media</a>. Lastly, I have a strong interest in <a href="https://en.wikipedia.org/wiki/Decision-making">human decision making</a>.
+In high school, I had a stint interning in the Mayor's Office of Rochester, NY, where I grew up. Check out my <a href="{{ '/projects/' | relative_url }}">projects</a>!
 
 Reach out: ew1100 [at] princeton [dot] edu
 
