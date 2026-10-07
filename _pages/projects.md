@@ -22,5 +22,6 @@ horizontal: false
 
 ### Other
 
+* Custom-built prediction market that saw 12k+ trades from 400 beta users.
 * [Academic Index](https://www.instagram.com/academicindex/) - automated social media account. Grew to 170M+ views in four months and revenue in the thousands.
 
