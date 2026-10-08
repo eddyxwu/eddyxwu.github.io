@@ -25,7 +25,7 @@ latest_posts:
 
 Hi I'm Eddy! I'm a student at <a href="https://www.princeton.edu/">Princeton</a> studying a combination of physics and CS/AI.
 
-Last summer, I worked on the ML team at <a href="https://www.distributedspectrum.com/">Distributed Spectrum</a> in an applied research role. Previously, I worked on coding simulations for <a href="https://en.wikipedia.org/wiki/Inertial_confinement_fusion">inertial confinement fusion</a> at the <a href="https://www.lle.rochester.edu/">Laboratory for Laser Energetics</a> advised by <a href="https://www.researchgate.net/profile/Stephen-Craxton">Dr. R. Stephen Craxton</a>. I also spent time in labs at Yale and the University of Rochester researching superconductors and quantum computing.
+Last summer, I worked on the ML team at <a href="https://www.distributedspectrum.com/">Distributed Spectrum</a> in an applied research role. Previously, I worked on simulations for <a href="https://en.wikipedia.org/wiki/Inertial_confinement_fusion">inertial confinement fusion</a> at the <a href="https://www.lle.rochester.edu/">Laboratory for Laser Energetics</a> advised by <a href="https://www.researchgate.net/profile/Stephen-Craxton">Dr. R. Stephen Craxton</a>. I also spent time in labs at Yale and the University of Rochester researching superconductors and quantum computing.
 
 In high school, I had a stint interning in the Mayor's Office of Rochester, NY, where I grew up. Check out my <a href="{{ '/projects/' | relative_url }}">projects</a>!
 
